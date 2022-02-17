@@ -44,3 +44,8 @@
 - Como referenciar uma classe no CSS
 - Divisões de conteúdo, utilizando a tag div
 - Os comportamentos inline e block
+
+### O conceito de cabeçalho da página e como criá-lo
+- O cabeçalho da página deve ter mais destaque
+- Não é recomendado criar estilos usando tags
+- O ideal é usarmos classes para tudo
