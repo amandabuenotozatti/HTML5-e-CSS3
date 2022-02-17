@@ -36,3 +36,11 @@
 - Como ajustar a largura do elemento, através da propriedade width
 - Como ajustar o espaçamento interno do elemento, através da propriedade padding
 - Como ajustar o espaçamento externo do elemento, através da propriedade margin
+
+### Trabalhando com listas não-ordenadas e listas ordenadas
+- Para cada um dos itens da lista, utilizamos a tag li
+- O conceito das classes no CSS
+- Elas servem para marcar itens, que são repetíveis
+- Como referenciar uma classe no CSS
+- Divisões de conteúdo, utilizando a tag div
+- Os comportamentos inline e block
